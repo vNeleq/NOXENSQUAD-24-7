@@ -1,0 +1,1 @@
+[null,{"name":"AddMonety","temp":"sent","event-type":"2","actions":[{"member":"2","varName":"uzytkownik","dataName":"monety","changeType":"1","value":"5","name":"Control Member Data"}]},{"name":"Error","temp":"","event-type":"37","actions":[]}]
